@@ -13,5 +13,6 @@ namespace Vehicles.Models.Models
         public string Direccion { get; set; }
         public string Telefono { get; set; }
         public Ciudad CiudadId { get; set; }
+        public List<Matricula> Matriculas { get; set; }
     }
 }

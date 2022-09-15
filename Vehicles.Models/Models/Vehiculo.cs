@@ -13,5 +13,6 @@ namespace Vehicles.Models.Models
         public string Year { get; set; }
         public string Placa { get; set; }
         public string Marca { get; set; }
+        public List<Matricula> Matriculas { get; set; }
     }
 }
