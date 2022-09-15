@@ -1,0 +1,12 @@
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\bin\Debug\net5.0\Vehicles.Models.deps.json
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\bin\Debug\net5.0\Vehicles.Models.dll
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\bin\Debug\net5.0\Vehicles.Models.pdb
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\Vehicles.Models.csproj.AssemblyReference.cache
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\Vehicles.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\Vehicles.Models.AssemblyInfoInputs.cache
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\Vehicles.Models.AssemblyInfo.cs
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\Vehicles.Models.csproj.CoreCompileInputs.cache
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\Vehicles.Models.dll
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\refint\Vehicles.Models.dll
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\Vehicles.Models.pdb
+C:\Users\HELKIN\source\repos\Vehicles\Vehicles.Models\obj\Debug\net5.0\ref\Vehicles.Models.dll

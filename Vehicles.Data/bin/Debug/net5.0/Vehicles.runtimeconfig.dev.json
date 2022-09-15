@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HELKIN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HELKIN\\.nuget\\packages"
+    ]
+  }
+}
